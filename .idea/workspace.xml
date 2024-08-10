@@ -1,15 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a969728d-2fd7-4588-9a3f-df852540eb77" name="Changes" comment="" />
+    <list default="true" id="a969728d-2fd7-4588-9a3f-df852540eb77" name="Changes" comment="a workspace for quiz app">
+      <change afterPath="$PROJECT_DIR$/quiz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ajewoleOlugbenga"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ajewoleOlugbenga/quiz-app.git",
+    "accountId": "fa94efc6-070b-4ea7-97a1-a268d7684fd4"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -21,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.quiz.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master"
@@ -42,6 +69,52 @@
       <option name="presentableId" value="Default" />
       <updated>1723292913112</updated>
     </task>
+    <task id="LOCAL-00001" summary="install python">
+      <option name="closed" value="true" />
+      <created>1723293161014</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723293161014</updated>
+    </task>
+    <task id="LOCAL-00002" summary="install python">
+      <option name="closed" value="true" />
+      <created>1723293175197</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723293175197</updated>
+    </task>
+    <task id="LOCAL-00003" summary="install python">
+      <option name="closed" value="true" />
+      <created>1723293190567</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723293190567</updated>
+    </task>
+    <task id="LOCAL-00004" summary="install python">
+      <option name="closed" value="true" />
+      <created>1723293208251</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723293208251</updated>
+    </task>
+    <task id="LOCAL-00005" summary="a workspace for quiz app">
+      <option name="closed" value="true" />
+      <created>1723293428432</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723293428432</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="install python" />
+    <MESSAGE value="a workspace for quiz app" />
+    <option name="LAST_COMMIT_MESSAGE" value="a workspace for quiz app" />
   </component>
 </project>
