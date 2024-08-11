@@ -26,4 +26,10 @@ if not my_bool or my_num == 42:
 else:
     print("The statement reject")
     """
-#and operator s to check if the two variable are true
+#and operators to check if the two variable are true
+#it will only run if the two condition is satisfied
+
+if my_bool and my_num == 43:
+    print("This condition is satisfied")
+else:
+    print("Error code.. Try again")
